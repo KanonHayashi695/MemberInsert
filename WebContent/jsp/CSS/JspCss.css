@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body{
+	width:100%;
+	text-align:center;
+}
+
+.button{
+	border:solid;
+	border:1px solid;
+	border-color:black;
+	width:250px; 
+	height:50px;
+	background-color:white;
+	display:block;
+	margin:10px auto;
+	
+}
+
+a{
+	text-decoration:none;
+}
+
+.buttonInsert{
+	border:1px solid;
+	border-color:black;
+	background-color:white;
+	height:50px;
+	width:100px;
+	margin:10px 10px;
+}
